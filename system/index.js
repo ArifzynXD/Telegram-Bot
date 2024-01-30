@@ -201,5 +201,3 @@ bot.on("message", (msg) => {
 });
 
 bot.launch();
-
-watchPlugins(pluginsFolder);
